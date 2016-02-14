@@ -44,5 +44,18 @@
 - Existential quantifier means that there exists a true value in the possible values for a statement.
 - Universal quantifier means that the statement is true for all possible values.
 
+#WEEK 3
+- We have learned the concept of Rules of Inference.
+- We have also defined different related terms such as an argument, validity and fallacy.
+- The validity of an argument comes with the pattern of premises.
+- The truth of conclusion depends on the truth of the premises.
+- I have noted that all valid premises does not always lead to a true conclusion.
+- There is a variety of rules of inference, with their corresponding tautology and names.
+
+#WEEK 4
+- We have used the concept of using rules of inference to build arguments.
+- We use atomic propositions to specify different logics of premises.
+- We have also learned the basic concept of Proof; an argument that demonstrates why a conclusion is true.
+- A Direct Proof is tested to assume p to be true, and show that q is true using the first assumption.
 
 
