@@ -57,5 +57,14 @@
 - We use atomic propositions to specify different logics of premises.
 - We have also learned the basic concept of Proof; an argument that demonstrates why a conclusion is true.
 - A Direct Proof is tested to assume p to be true, and show that q is true using the first assumption.
+- An Indirect Proof/ Proof by Contraposition is used by assuming the negation of q to be true, and then showing that the negation of p is also true using the first assumption.
+- A Vacuous Proof shows that the antecedent p is false, because p → q must be true when p is false.
+- A Trivial Proof shows that the consequent q is true because p → q must also be true.
+
+#WEEK 5
+- In Proof by Contradiction, one must show that assuming the negation of a premise is true leads to a contradiction.
+-  We have tested different conditions and premises using this kind of proof.
+-  In this proof, according to Sir Arthur Conan Doyle, "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth."
+-  In Proof by Equivalence, it is a combination of a direct and indirect proof.
 
 
