@@ -66,5 +66,27 @@
 -  We have tested different conditions and premises using this kind of proof.
 -  In this proof, according to Sir Arthur Conan Doyle, "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth."
 -  In Proof by Equivalence, it is a combination of a direct and indirect proof.
+- We also studied the Mathematical Induction, first having a Basis Step, and then an Inductive Step using the Direct proof.
+- Ina Recursive/ Inductive Definition, we first have a Basis step (specifying the value of function at zero), and then the recursive step, giving a rule for finding its value at an integer from its values at smaller integers.
+- For example, if f(0)=3, and f(n+1)=2f(n)+3, then f(1)=9, f(2)=21, f(3)45, and f(4)=93, using the recursive method.
+- You need an initial assertion, final assertion, and a segment to prove a program correctness.
 
+#WEEK 6
+- We had an introduction to Set Theory, and it somewhat refreshed our learnings from our highschool mathematics.
+- We discussed the definitions of set, empty set, membership, set-builder notations, and venn diagrams.
+- We had also distinguished the properties of union, intersection, subtraction, and symmetric difference.
+- The Set Identities have very similar inputs with the Logical Equivalences properties.
+- Subsets and power sets were also discussed thoroughly.
+- The Power Series also has similar notations with the Geometric Series.
+- We could identify patterns from previous discussions that are helpful to us in understanding the concepts of this chapter.
+
+#WEEK 7
+- We have discussed the properties of functions.
+- We assign exactly one element to set B to say that it is a function.
+- The domain, co-domain and range were discussed with proper distinctions.
+- There three types of functions: one-to-one function, onto function, and one-to-one correspondence.
+- One-to-one function (injective) is a function that never assign the same value to two different domain elements.
+- Onto function (surjective) is a function that have equal range and codomain.
+- One-to-one correspondence (bijective) is the mixture of injective and surjective functions.
+- In  a venn diagram, the intersection of an injective function and surjective function is a bijective function.
 
