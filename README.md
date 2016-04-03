@@ -90,3 +90,46 @@
 - One-to-one correspondence (bijective) is the mixture of injective and surjective functions.
 - In  a venn diagram, the intersection of an injective function and surjective function is a bijective function.
 
+#WEEK 8
+- An algorithm is a finite set of precise instructions for performing a computation or for solving problems.
+- We could use an algorithm to find the maximum number in a given set of numbers.
+- Concepts in programming are very much helpful in constructing algorithms.
+- Pseudocodes are the building blocks of an alogrithm.
+- It is important to determine the precondition, procedure, and post condition in writing algorithms.
+
+#WEEK 9
+- We have learned the different types of algorithms.
+- For Searching Algorithms, we can use a) Linear Search or b) Binary Search Algorithms.
+- A Linear Search is concerned in finding a particular value in a list that checks each element in sequence until the desired element is found.
+- A Binary Search is concerned in comparing the middle values of a list then repeated until the desired output is found.
+- For Sorting Algorithms, we can use a) Bubble Sort or b) Insertion Sort Algorithms.
+- Bubble Sort compares the first two elements then interchanging them if they are in the incorrect order.
+- Insertion Sort compares the second element with the first and inserts it before the first element if it is less; otherwise, it is inserted after the first element.
+- A Greedy Algorithm is an algorithm that make what seems to be the "best" choice at each step.
+
+#WEEK 10
+- We have learned the concept of Growth of Functions.
+- Two functions can be compared through Big-O Notations.
+- Big-O Notation is the upper bound of a given function.
+- Big-Omega Notation is the lower bound of a given function.
+- Big-Theta Notation can be both the upper and lower bound of a given function.
+- Constants C and k (witnesses) are important in determining the growth of functions.
+- Algorithm Time Complexity can be expressed in terms of the number of operations used by the algorithm when the input has a particular size.
+- we could describe the time complexity of an algorithm by counting the comparisons done.
+
+#WEEK 11
+- We have learned the concept of Graph Theory.
+- A graph is a discrete structure consisting of vertices and edges that connect these vertices.
+- A degree is considered as the number of connections in a graph.
+- We use the Handshaking Theorem to determine the number of edges, given the number of vertices and degree.
+- A path is a sequence of edges.
+- An Euler path is a simple path containing every edge of a graph.
+- An Euler circuit is a simple circuit containing every edge of a graph.
+- For us to have an Euler circuit, we should have even degrees for all the nodes.
+- It is a Euler path if we have exacctly two nodes that have odd degrees.
+- A Hamilton path is a simple path that passes through every vertex exactly once.
+- A Hamilton circuit is a simple circuit that passes through every vertex exactly once.
+- Two graphs are isomorphic if they have the same number of nodes.
+- Planar graphs are graphs that can be drawn in the plane with edges not crossing each other.
+- We use the Euler's Formula to determine the number of regions, given the number of edges and vertices.
+- Kuratowski's Theorem states that a graph is nonplanar if and only if it contains a subgraph homeomorphic to a k,3,3 and k,5.
