@@ -133,3 +133,14 @@
 - Planar graphs are graphs that can be drawn in the plane with edges not crossing each other.
 - We use the Euler's Formula to determine the number of regions, given the number of edges and vertices.
 - Kuratowski's Theorem states that a graph is nonplanar if and only if it contains a subgraph homeomorphic to a k,3,3 and k,5.
+
+#WEEK 12
+-   Graph Coloring is the assignment of a color to each vertex of the graph so that no two adjacent vertices are assigned the same color.
+-   The chromatic number is the least number of colors that are assigned in a graph.
+-   The Four Color Theorem states that the chromatic number of a PLANAR graph is no greater than four; if NON-PLANAR, it could be more than four.
+-   A Tree is a connected undirected graph with no simple circuit.
+-   Some terminologies like roots, parent, and children are used in this concept.
+-   A forest is a connection with two or more trees.
+-   M-ary trees are trees with no more than m children.
+-   A binary tree is an m-ary tree with two children.
+-   Several properties are needed to be considered in determining the internal vertices and leaves of a given tree.
